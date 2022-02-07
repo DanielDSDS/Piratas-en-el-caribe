@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+    <worlds>
+        <world id="1">
+            <island name="Isla Nueva Esperanzas">
+                <surface type="S" name="Cala de los Mártires" x="4" y="4" landingLosses="2">
+                    <chest>
+                        <treasure name="Barra de Oro" weight="25"/>
+                        <treasure name="Barra de Plata" weight="50"/>
+                        <treasure name="Bolsa de Perlas" weight="10"/>
+                        <treasure name="Cofre de Joyas" weight="15"/>
+                        <treasure name="Barra de Oro" weight="25"/>
+                        <treasure name="Barra de Plata" weight="50"/>
+                        <treasure name="Bolsa de Perlas" weight="10"/>
+                    </chest>
+                </surface>
+
+                <surface type="S" name="Puerto Real" x="4" y="3" landingLosses="2">              
+                    <chest>
+                        <treasure name="Barra de Oro" weight="25"/>
+                        <treasure name="Barra de Plata" weight="50"/>
+                        <treasure name="Bolsa de Perlas" weight="10"/>
+                        <treasure name="Cofre de piedras preciosas" weight="10"/>
+                        <treasure name="Barra de Plata" weight="50"/>
+                        <treasure name="Bolsa de Perlas" weight="10"/> 
+                    </chest>
+                </surface>
+						
+                <surface type="S" name="Playa de las perlas" x="4" y="5" landingLosses="2">
+                    <chest>
+                        <treasure name="Barra de Oro" weight="25"/>
+                        <treasure name="Barra de Plata" weight="50"/>
+                        <treasure name="Bolsa de Perlas" weight="10"/>
+                        <treasure name="Bolsa de Monedas de Oro" weight="15"/>  
+                        <treasure name="Bolsa de Perlas" weight="10"/>
+                        <treasure name="Bolsa de Monedas de Oro" weight="15"/>
+                        <treasure name="Cofre de Joyas" weight="15"/>  
+                        <treasure name="Cofre de piedras preciosas" weight="10"/>
+                    </chest>
+                </surface>
+            </island>
+            
+            <surface type="C" name="Cayo de sotavento" x="7" y="6" landingLosses="3">
+                <chest>
+                    <treasure name="Bolsa de Perlas" weight="10"/>
+                    <treasure name="Bolsa de Monedas de Oro" weight="15"/>
+                </chest>
+            </surface>
+
+            <surface type="C" name="Cayo del buen viento" x="8" y="2" landingLosses="3">
+                <chest>
+                    <treasure name="Barra de Plata" weight="50"/>
+                    <treasure name="Bolsa de Perlas" weight="10"/>
+                    <treasure name="Bolsa de Monedas de Oro" weight="15"/>
+                    <treasure name="Cofre de Joyas" weight="15"/>
+                </chest>
+            </surface>
+        </world>
+        
+        <world id="2">
+            <island name="Isla El Naufrago">
+                <surface type="S" name="Bahía de la esperanza" x="8" y="3" landingLosses="2">
+                    <chest>
+                        <treasure name="Cofre de Joyas" weight="15"/>
+                        <treasure name="Cofre de piedras preciosas" weight="10"/>
+                    </chest>
+                </surface>
+						
+                <surface type="S" name="Cueva del bucanero" x="8" y="4" landingLosses="2">
+                    <chest>  
+                        <treasure name="Barra de Plata" weight="50"/>
+                        <treasure name="Bolsa de Perlas" weight="10"/>
+                    </chest>
+                </surface>
+            </island>
+
+            <island name="Isla La Holandesa">
+                <surface type="S" name="Puerto de la Reina" x="4" y="2" landingLosses="2">      
+                    <chest>
+                        <treasure name="Bolsa de Perlas" weight="10"/>
+                        <treasure name="Bolsa de Monedas de Oro" weight="15"/>
+                        <treasure name="Cofre de Joyas" weight="15"/>
+                    </chest>
+                </surface>
+						
+                <surface type="S" name="Cueva de los marineros" x="5" y="4" landingLosses="2">
+                    <chest>   
+                        <treasure name="Bolsa de Perlas" weight="10"/>
+                        <treasure name="Barra de Plata" weight="50"/>
+                    </chest>
+                </surface>
+						
+                <surface type="S" name="Bahía del Buen Reposo" x="4" y="3" landingLosses="2">
+                    <chest>
+                        <treasure name="Bolsa de Perlas" weight="10"/>
+                        <treasure name="Bolsa de Monedas de Oro" weight="15"/> 
+                    </chest>
+                </surface>
+            </island>
+
+        </world>
+        
+        <world id="3">
+            <island name="Isla Las Aves">
+                <surface type="S" name="Bahía de las flores" x="7" y="2" landingLosses="2">
+                    <chest>
+                        <treasure name="Mapa #8" weight="5"/>
+                        <treasure name="Mapa #9" weight="5"/> 
+                        <treasure name="Bolsa de Monedas de Oro" weight="15"/>
+                        <treasure name="Cofre de Joyas" weight="15"/>
+                        <treasure name="Cofre de piedras preciosas" weight="10"/>
+                    </chest>
+                </surface>
+
+                <surface type="S" name="Cementerio de Barcos" x="7" y="3" landingLosses="2">
+                    <chest>
+                        <treasure name="Bolsa de Monedas de Oro" weight="15"/>
+                        <treasure name="Cofre de Joyas" weight="15"/>
+                        <treasure name="Cofre de piedras preciosas" weight="10"/>
+                    </chest>
+                </surface>
+            </island>
+
+            <surface type="C" name="Cayo de Barlovento" x="6" y="7" landingLosses="3">
+                <chest>
+                    <treasure name="Corazón de la Princesa" weight="5"/>
+                    <treasure name="Barra de Oro" weight="25"/>
+                    <treasure name="Barra de Plata" weight="50"/>
+                    <treasure name="Bolsa de Monedas de Oro" weight="15"/>
+                    <treasure name="Cofre de Joyas" weight="15"/>  
+                </chest>
+            </surface>
+
+            <island name="Isla Tortuga">
+                <surface type="S" name="Bahía del buen retiro" x="4" y="5" landingLosses="2">
+                    <chest>
+                        <treasure name="Mapa #2" weight="5"/>
+                        <treasure name="Barra de Plata" weight="50"/>
+                        <treasure name="Bolsa de Monedas de Oro" weight="15"/>
+                    </chest>
+                </surface>
+                <surface type="S" name="Cueva de los huesos" x="4" y="4" landingLosses="2">
+                    <chest>
+                        <treasure name="Barra de Oro" weight="25"/>
+                        <treasure name="Bolsa de Perlas" weight="10"/>
+                    </chest>
+                </surface>
+            </island>
+        </world>
+        
+        <world id="4">
+            <island name="La Gran Isla de la Española">
+                <surface type="S" name="Bahía del tesoro perdido" x="3" y="3" landingLosses="2">
+                    <chest> 
+                        <treasure name="Bolsa de Monedas de Oro" weight="15"/>
+                        <treasure name="Cofre de Joyas" weight="15"/>
+                        <treasure name="Cofre de piedras preciosas" weight="10"/>
+                    </chest>
+                </surface>
+
+                <surface type="S" name="Puerto Rico" x="3" y="2" landingLosses="2">
+                    <chest>
+                        <treasure name="Barra de Oro" weight="25"/>
+                        <treasure name="Barra de Plata" weight="50"/>
+                        <treasure name="Cofre de Joyas" weight="15"/>
+                        <treasure name="Cofre de piedras preciosas" weight="10"/>
+                    </chest>
+                </surface>
+
+                <surface type="S" name="Cueva del pirata" x="4" y="3" landingLosses="2">
+                    <chest>
+                        <treasure name="Bolsa de Monedas de Oro" weight="15"/>
+                        <treasure name="Cofre de Joyas" weight="15"/>
+                        <treasure name="Cofre de piedras preciosas" weight="10"/>
+                    </chest>
+                </surface>
+            </island>
+
+
+            <surface type="C" name="Cayo de los Pelicanos" x="7" y="5" landingLosses="3">
+                <chest>
+                    <treasure name="Bolsa de Monedas de Oro" weight="15"/>
+                    <treasure name="Cofre de Joyas" weight="15"/>
+                    <treasure name="Cofre de piedras preciosas" weight="10"/>  
+                </chest>
+            </surface>
+        </world> 
+    </worlds>
+    
+    <ships>
+        <ship role="P" name="💀 La Venganza Errante 💀" tripulation="10" munitions="20" speed="5" startX="6" startY="3" worldId="1">
+            <chest>
+                <treasure name="Mapa #1" weight="5"/>
+            </chest>
+        </ship>
+
+        <ship role="Q" name="👑 HSM Interceptor 👑" tripulation="10" munitions="9" speed="5" startX="4" startY="2" worldId="2">
+            <chest>
+                <treasure name="Mapa #3" weight="5"/>
+            </chest>
+        </ship>
+                        
+        <ship role="Q" name="👑 HSM Invencible 👑" tripulation="10" munitions="9" speed="5" startX="2" startY="2" worldId="2">
+            <chest>
+                <treasure name="Mapa #2" weight="5"/>
+            </chest>
+        </ship>
+    </ships>
+    
+    <maps>
+        <map id="1">
+            <navigation_coordinate x="3" y="2" worldId="1"/>
+            <navigation_coordinate x="4" y="5" worldId="1"/>
+            <navigation_coordinate x="6" y="3" worldId="1"/>
+            <navigation_coordinate x="2" y="2" worldId="2"/>
+        </map>
+        
+        <map id="2">
+            <navigation_coordinate x="2" y="3" worldId="2"/>
+            <navigation_coordinate x="4" y="4" worldId="2"/>
+            <navigation_coordinate x="6" y="5" worldId="2"/>
+            <navigation_coordinate x="6" y="7" worldId="3"/>
+        </map>
+        
+        <map id="3">
+            <navigation_coordinate x="3" y="1" worldId="2"/>
+            <navigation_coordinate x="2" y="2" worldId="2"/>
+            <navigation_coordinate x="8" y="5" worldId="2"/>
+            <navigation_coordinate x="6" y="3" worldId="4"/>
+        </map>
+
+        <map id="4">
+            <navigation_coordinate x="6" y="6" worldId="2"/>
+            <navigation_coordinate x="7" y="7" worldId="2"/>
+            <navigation_coordinate x="2" y="3" worldId="2"/>
+            <navigation_coordinate x="8" y="3" worldId="1"/>
+        </map>
+        
+        <map id="5">
+            <navigation_coordinate x="6" y="5" worldId="4"/>
+            <navigation_coordinate x="7" y="6" worldId="4"/>
+            <navigation_coordinate x="4" y="1" worldId="4"/>
+            <navigation_coordinate x="2" y="2" worldId="4"/>
+        </map>
+        
+        <map id="6">
+            <navigation_coordinate x="2" y="1" worldId="1"/>
+            <navigation_coordinate x="3" y="6" worldId="1"/>
+            <navigation_coordinate x="5" y="6" worldId="1"/>
+            <navigation_coordinate x="7" y="6" worldId="1"/>
+        </map>
+        
+        <map id="7">
+            <navigation_coordinate x="4" y="4" worldId="2"/>
+            <navigation_coordinate x="7" y="7" worldId="2"/>
+            <navigation_coordinate x="6" y="6" worldId="2"/>
+            <navigation_coordinate x="8" y="6" worldId="2"/>
+        </map>
+        
+        <map id="8">
+            <navigation_coordinate x="6" y="6" worldId="3"/>
+            <navigation_coordinate x="6" y="8" worldId="3"/>
+            <navigation_coordinate x="3" y="0" worldId="4"/>
+            <navigation_coordinate x="2" y="2" worldId="4"/>       
+        </map>
+        
+        <map id="9">
+            <navigation_coordinate x="6" y="5" worldId="4"/>
+            <navigation_coordinate x="3" y="4" worldId="4"/>  
+            <navigation_coordinate x="2" y="3" worldId="4"/>
+            <navigation_coordinate x="6" y="6" worldId="3"/>
+        </map>
+    </maps>
+</configuration>
